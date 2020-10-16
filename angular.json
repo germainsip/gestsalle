@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gestsalle"
+    }
+  },
+  "defaultProject": "gestsalle",
+  "cli": {
+    "analytics": "8c4774a8-719c-451b-805e-041fd262eeb4"
+  }
 }
