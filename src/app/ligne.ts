@@ -20,6 +20,11 @@ function ligneTest(numSalle: number): Ilot[] {
             id: 2,
             username: 'MAx Danger',
             usermail: null
+          },
+          {
+            id: 4,
+            username: 'Chase',
+            usermail: null
           }
         ],
         ucs: [
@@ -109,15 +114,15 @@ export const LIGNE2: Salle[] = [
   {
     id: 8,
     nom: 'Salle formateurs 2',
-    ilots: ligneTest(5),
+    ilots: null,
     type: 'bureau'
   },
-  /*{
+  {
     id: 8,
     nom: 'WC',
     ilots: null,
     type: 'réunion'
-  }*/
+  }
 ];
 
 
